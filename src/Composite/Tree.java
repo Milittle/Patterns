@@ -17,6 +17,6 @@ public class Tree {
 
         node.add(node1);
         tree.root.add(node);
-        
+
     }
 }
