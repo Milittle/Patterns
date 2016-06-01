@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Iterator/Collection.java" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67125651-9fa8-473d-9eed-ce73b38946c0" name="Default" comment="add Memento">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Memento/Memento.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Memento/MementoTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Memento/Original.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Memento/Storage.java" />
+    <list default="true" id="67125651-9fa8-473d-9eed-ce73b38946c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Patterns.iws" />
@@ -864,12 +860,20 @@
       <workItem from="1462519461450" duration="15208000" />
       <workItem from="1462612772274" duration="868000" />
       <workItem from="1464770512651" duration="5081000" />
-      <workItem from="1464776172023" duration="5726000" />
+      <workItem from="1464776172023" duration="5737000" />
     </task>
+    <task id="LOCAL-00001" summary="add Memento">
+      <created>1464786105122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464786105122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56387000" />
+    <option name="totallyTimeSpent" value="56398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
